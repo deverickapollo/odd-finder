@@ -1,0 +1,14 @@
+{
+  "name": "UnitTest",
+  "version": "0.0.0",
+  "description": "Testing Unit Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "Deveric",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^3.0.1"
+  }
+}
