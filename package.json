@@ -1,10 +1,14 @@
 {
-  "name": "UnitTest",
-  "version": "0.0.0",
+  "name": "odd-finder",
+  "version": "1.0.0",
   "description": "Testing Unit Test",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
+  },
+  "repository":{
+	"type": "git",
+	"url": "https://github.com/Deverick-Simpson/odd-finder.git"
   },
   "author": "Deveric",
   "license": "ISC",
